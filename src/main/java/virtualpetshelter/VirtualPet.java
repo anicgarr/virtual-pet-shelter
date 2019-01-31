@@ -71,6 +71,7 @@ public class VirtualPet {
 	public VirtualPet(String name, int hunger, int energy, int thirst, int boredom) {
 		
 	}
+
 	
 public void feedPet(){
 	this.hunger=-5;
